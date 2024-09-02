@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of the game:
-[https://www.loom.com/share/a0873ad7b7fe41038b2bc12f130a0d1f?sid=27c6e4f9-d5a9-41d0-a495-84092a73dcb8](https://github.com/mesoma-n/NewWordle/blob/master/wordle.gif)
+(https://github.com/mesoma-n/NewWordle/blob/master/wordle.gif)](https://github.com/mesoma-n/NewWordle/blob/master/wordle.gif)
 
 
 ## Notes
