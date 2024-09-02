@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordGuesser</string>
+    <string name="win">Congrats you got the word!</string>
+    <string name="error">Entry has to be 4 letters and be alphabetic</string>
+</resources>
